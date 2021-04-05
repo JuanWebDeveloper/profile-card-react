@@ -1,0 +1,19 @@
+.Form {
+  margin-top: 5rem;
+  padding: 0.8rem;
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.Form h1 {
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: center;
+  color: #185dff;
+}
+
+.Form textarea {
+  min-height: 100px;
+  resize: none;
+}
